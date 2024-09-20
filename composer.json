@@ -1,0 +1,19 @@
+{
+    "name": "gabriel_cubas/projeto-z",
+    "autoload": {
+        "psr-4": {
+            "GabrielCubas\\ProjetoZ\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabrielruizcbs@gmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/datalayer": "^2.0",
+        "coffeecode/router": "^2.0",
+        "coffeecode/paginator": "^2.0"
+    }
+}
